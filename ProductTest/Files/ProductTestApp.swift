@@ -9,7 +9,7 @@ import SwiftUI
 
 @main
 struct ProductTestApp: App {
-    let persistenceController = PersistenceController.shared
+    var persistenceController = PersistenceController.shared
 
     var body: some Scene {
         WindowGroup {
