@@ -14,7 +14,6 @@
 		B5DB3C432AFD368A00884760 /* RupiahFormatterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DB3C422AFD368A00884760 /* RupiahFormatterTests.swift */; };
 		B5DB3C472AFDC95B00884760 /* ProductController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DB3C462AFDC95B00884760 /* ProductController.swift */; };
 		B5DB3C682AFE049F00884760 /* FavoriteItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DB3C672AFE049F00884760 /* FavoriteItem.swift */; };
-		B5DB3C6A2AFE0F1800884760 /* FavoriteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DB3C692AFE0F1800884760 /* FavoriteView.swift */; };
 		B5EA13A32AFCCF26009CBF83 /* ProductTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EA13A22AFCCF26009CBF83 /* ProductTestApp.swift */; };
 		B5EA13A52AFCCF26009CBF83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EA13A42AFCCF26009CBF83 /* ContentView.swift */; };
 		B5EA13A72AFCCF28009CBF83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5EA13A62AFCCF28009CBF83 /* Assets.xcassets */; };
@@ -50,7 +49,6 @@
 		B5DB3C422AFD368A00884760 /* RupiahFormatterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RupiahFormatterTests.swift; sourceTree = "<group>"; };
 		B5DB3C462AFDC95B00884760 /* ProductController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductController.swift; sourceTree = "<group>"; };
 		B5DB3C672AFE049F00884760 /* FavoriteItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteItem.swift; sourceTree = "<group>"; };
-		B5DB3C692AFE0F1800884760 /* FavoriteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteView.swift; sourceTree = "<group>"; };
 		B5EA139F2AFCCF26009CBF83 /* ProductTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProductTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5EA13A22AFCCF26009CBF83 /* ProductTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductTestApp.swift; sourceTree = "<group>"; };
 		B5EA13A42AFCCF26009CBF83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -93,7 +91,6 @@
 			isa = PBXGroup;
 			children = (
 				B5EA13A42AFCCF26009CBF83 /* ContentView.swift */,
-				B5DB3C692AFE0F1800884760 /* FavoriteView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -345,7 +342,6 @@
 				B56F8F632AFD0C8C0009591F /* ProductItemView.swift in Sources */,
 				B5EA13AF2AFCCF28009CBF83 /* ProductTest.xcdatamodeld in Sources */,
 				B5EA13A52AFCCF26009CBF83 /* ContentView.swift in Sources */,
-				B5DB3C6A2AFE0F1800884760 /* FavoriteView.swift in Sources */,
 				B5EA13A32AFCCF26009CBF83 /* ProductTestApp.swift in Sources */,
 				B5DB3C682AFE049F00884760 /* FavoriteItem.swift in Sources */,
 				B5DB3C392AFD2DB400884760 /* ProductModel.swift in Sources */,
